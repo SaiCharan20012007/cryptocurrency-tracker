@@ -1,0 +1,47 @@
+/* Write your CSS code here */
+.unorderd-list-container {
+  border-style: solid;
+  border-color: yellow;
+  min-height: 600px;
+  min-width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.app-title {
+  color: #00e7ff;
+  font-family: Roboto;
+  font-size: 40px;
+}
+.currencies-items-container {
+  border-style: solid;
+  border-color: #00e7ff;
+  border-width: 5px;
+  border-radius: 7px;
+  min-height: 250px;
+  width: 90%;
+  padding: 0px;
+  padding-top: 0px;
+}
+.columns-section {
+  background-color: #092e33;
+  color: white;
+  list-style-type: none;
+  margin: 0px;
+  margin-top: 0px;
+  padding: 20px;
+  padding-left: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.attribute-1 {
+  color: white;
+  font-family: Roboto;
+  margin: 0px;
+  margin-right: 50px;
+}
+.sub {
+  display: flex;
+}

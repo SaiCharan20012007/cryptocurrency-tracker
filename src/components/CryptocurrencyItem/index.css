@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.mini-logo {
+  height: 35px;
+  width: 35px;
+}
+.currency-item {
+  list-style-type: none;
+
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.currency-name {
+  color: #ffffff;
+  font-family: Roboto;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+.list-a {
+  display: flex;
+  align-items: center;
+}
+.attribute-2 {
+  color: white;
+  font-family: Roboto;
+  margin: 0px;
+  margin-right: 50px;
+}
+.sub2 {
+  display: flex;
+}
